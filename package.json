@@ -2,7 +2,7 @@
     "author": "mytcer",
     "name": "prepush-githook",
     "description": "An npm installable git pre-push hook used to lint and test your code",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": "MIT",
     "repository": {
         "url": "https://github.com/mytcer/prepush-githook.git"

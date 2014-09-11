@@ -1,5 +1,7 @@
 .gitignore
+.npmignore
 .jshintignore
 .jshint
+.jshintrc
 LICENSE
 
