@@ -1,4 +1,4 @@
-# githook-prepush ![prepush-githook](https://david-dm.org/mytcer/prepush-githook.png)&nbsp;![prepush-githook version](https://badge.fury.io/js/prepush-githook.svg)&nbsp;![prepush-githook donwloads](http://img.shields.io/npm/dm/prepush-githook.svg)
+# prepush-githook ![prepush-githook](https://david-dm.org/mytcer/prepush-githook.png)&nbsp;![prepush-githook version](https://badge.fury.io/js/prepush-githook.svg)&nbsp;![prepush-githook donwloads](http://img.shields.io/npm/dm/prepush-githook.svg)
 
 ![prepush-githook](https://nodei.co/npm/prepush-githook.png?stars&downloads)
 
@@ -8,7 +8,7 @@
 
 ### Installation
 
-	npm install githook-prepush --save-dev
+	npm install prepush-githook --save-dev
 
 <br>
 
