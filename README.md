@@ -8,7 +8,7 @@
 
 ### Installation
 
-	npm install githook-prepush --save-dev
+	npm install prepush-githook --save-dev
 
 <br>
 
