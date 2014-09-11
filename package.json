@@ -1,0 +1,31 @@
+{
+  "author": "mytcer",
+  "name": "githook-prepush",
+  "description": "A useful pre-push hook for git based projects that lints and runs npm test",
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/mytcer/githook-push.git"
+  },
+  "bin": {
+    "prepush_hook_install": "./bin/install",
+    "prepush_hook_uninstall": "./bin/uninstall",
+    "pre-push": "./bin/pre-push"
+  },
+  "scripts": {
+    "install": "prepush_hook_install",
+    "uninstall": "prepush_hook_uninstall"
+  },
+  "peerDependencies": {
+    "jshint": ""
+  },
+  "bugs": {
+    "url": "https://github.com/mytcer/githook-push/issues"
+  },
+  "homepage": "https://github.com/mytcer/githook-push",
+  "main": "utils.js",
+  "keywords": [
+    "pre-push",
+    "githook"
+  ]
+}
